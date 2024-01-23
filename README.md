@@ -14,4 +14,4 @@ Detailed operation documents can be found in [here](https://github.com/DynamicBi
 The demo data used in the operation manual is [here](https://github.com/DynamicBiosystems/inSituFocus/tree/main/inSituFocus_demo_data)
 
 ## About
-inSituFocus is developed by dynamic-biosystems Co., Ltd. The official website is [www.dynamic-biosystems](http://www.dynamic-biosystems.com/).
+InSituFocus is developed by dynamic-biosystems Co., Ltd. The official website is [www.dynamic-biosystems](http://www.dynamic-biosystems.com/).
