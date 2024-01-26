@@ -13,8 +13,5 @@ For detailed installation and usage instructions, please refer to the [inSituFoc
 ## Demo
 The demo data used in the inSituFocus operation manual can be found in [here](https://github.com/DynamicBiosystems/inSituFocus/tree/main/insitufocus_demo_data).
 
-## Source
-For the development details about inSituFocus, you can read the [inSituFocus source code](https://github.com/DynamicBiosystems/inSituFocus/tree/main/insitufocus).
-
 ## About
 InSituFocus is developed by dynamic-biosystems Co., Ltd. The official website is [www.dynamic-biosystems](http://www.dynamic-biosystems.com/).
