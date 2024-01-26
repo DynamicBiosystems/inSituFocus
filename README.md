@@ -7,6 +7,9 @@ InSituFocus, an interactive visualization software for in situ sequencing, suppo
 
 ![inSituFocus](https://github.com/DynamicBiosystems/inSituFocus/blob/main/inSituFocus.png)
 
+## Installation
+The latest version of inSituFocus installation program can be downloaded in [here](https://github.com/DynamicBiosystems/inSituFocus/releases/tag/v1.0.0) (only for Windows).
+
 ## Manual
 For detailed installation and usage instructions, please refer to the [inSituFocus operation manual](https://github.com/DynamicBiosystems/inSituFocus/blob/main/inSituFocus-v1.0.0_operation_manual.pdf).
 
