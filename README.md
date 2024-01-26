@@ -11,7 +11,7 @@ InSituFocus, an interactive visualization software for in situ sequencing, suppo
 For detailed installation and usage instructions, please refer to the [inSituFocus operation manual](https://github.com/DynamicBiosystems/inSituFocus/blob/main/inSituFocus-v1.0.0_operation_manual.pdf).
 
 ## Demo
-The demo data used in the inSituFocus operation manual can be found in [here](https://github.com/DynamicBiosystems/inSituFocus/tree/main/insitufocus_demo_data).
+The demo data used in the inSituFocus operation manual can be downloaded in [here](https://github.com/DynamicBiosystems/inSituFocus/blob/main/insitufocus_demo_data.zip).
 
 ## About
 InSituFocus is developed by dynamic-biosystems Co., Ltd. The official website is [www.dynamic-biosystems](http://www.dynamic-biosystems.com/).
